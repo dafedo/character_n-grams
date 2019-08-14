@@ -68,17 +68,17 @@ The program will produce the following plots
 | Top | Unigrams en | de | Bigrams en | de | Trigrams en | de | Fourgrams en | de |
 |-----|------------------|-----------------|------------------|-------------------|
 |  1  |      e | e       |     th | en     |     the | der    |    tion | sche    |
-|  2  |       t | n      |     he | er     |     ion | ung    |    atio | chen    |
-|  3  |       i | r      |     in | de     |     tio | sch    |    ment | isch    |
-|  4  |       o | i      |     on | ch     |    ing | die     |    sion | eine    |
-|  5  |       n | s      |     ti | un     |     and | ich    |    emen | lich    |
-|  6  |       a | t      |     an | te     |     ent | che    |    comm | icht    |
-|  7  |       r | a      |     re | ei     |    ati | ein     |    arti | rung    |
+|  2  |      t | n       |     he | er     |     ion | ung    |    atio | chen    |
+|  3  |      i | r       |     in | de     |     tio | sch    |    ment | isch    |
+|  4  |      o | i       |     on | ch     |     ing | die    |    sion | eine    |
+|  5  |      n | s       |     ti | un     |     and | ich    |    emen | lich    |
+|  6  |      a | t       |     an | te     |     ent | che    |    comm | icht    |
+|  7  |      r | a       |     re | ei     |     ati | ein    |    arti | rung    |
 |  8  |      s | d       |     er | ie     |     men | gen    |    ions | ngen    |
 |  9  |      c | u       |     at | ge     |     for | und    |    with | iche    |
-| 10  |      h | g       |     io | in     |    pro | den     |    hall | ungs    |
+| 10  |      h | g       |     io | in     |     pro | den    |    hall | ungs    |
 | 11  |      l | h       |     of | ng     |     ate | ten    |    shal | unge    |
-| 12  |       d | l      |     or | nd     |     com | ver    |    rtic | ende    |
-| 13  |       u | o      |     en | es     |     con | nde    |    ting | über    |
-| 14  |       m | m      |     nt | be     |     ter | hen    |    that | komm    |
-| 15  |       p | c      |     es | st     |    ons | cht     |    ther | nder    |
+| 12  |      d | l       |     or | nd     |     com | ver    |    rtic | ende    |
+| 13  |      u | o       |     en | es     |     con | nde    |    ting | über    |
+| 14  |      m | m       |     nt | be     |     ter | hen    |    that | komm    |
+| 15  |      p | c       |     es | st     |     ons | cht    |    ther | nder    |
