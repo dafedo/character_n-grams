@@ -64,10 +64,9 @@ The program will produce the following plots
 </br>
 
 **15 the most frequent character unigrams, bigrams, trigrams, and fourgrams in the English and German corpora**
-</br>
 
 | Top | Unigrams en | de | Bigrams en | de | Trigrams en | de | Fourgrams en | de |
-|:---:|:----------------:|:---------------:|:----------------:|:-----------------:|
+|-----|------------------|-----------------|------------------|-------------------|
 |  1  |      e | e       |     th | en     |     the | der    |    tion | sche    |
 |  2  |       t | n      |     he | er     |     ion | ung    |    atio | chen    |
 |  3  |       i | r      |     in | de     |     tio | sch    |    ment | isch    |
@@ -79,9 +78,7 @@ The program will produce the following plots
 |  9  |      c | u       |     at | ge     |     for | und    |    with | iche    |
 | 10  |      h | g       |     io | in     |    pro | den     |    hall | ungs    |
 | 11  |      l | h       |     of | ng     |     ate | ten    |    shal | unge    |
-|  12 |       d | l      |     or | nd     |     com | ver    |    rtic | ende    |
+| 12  |       d | l      |     or | nd     |     com | ver    |    rtic | ende    |
 | 13  |       u | o      |     en | es     |     con | nde    |    ting | über    |
 | 14  |       m | m      |     nt | be     |     ter | hen    |    that | komm    |
 | 15  |       p | c      |     es | st     |    ons | cht     |    ther | nder    |
-
-</br>
