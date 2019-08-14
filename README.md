@@ -53,6 +53,7 @@ The program will produce the following plots
 
 </br>
 </br>
+
 **Entropy for Bigram Probability Distributions**
 
 | History | History = a   | History = d   | History =  z  | History =  c  |
@@ -61,7 +62,10 @@ The program will produce the following plots
 
 </br>
 </br>
+
 **15 the most frequent character unigrams, bigrams, trigrams, and fourgrams in the English and German corpora**
 </br>
+
 ![15 the most frequent character ngrams](top_15_ngrams.png)
+
 </br>
